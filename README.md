@@ -14,3 +14,5 @@ Supported platforms:
       * Intel x86\_64
   - macOS
       * Intel x86\_64
+
+Tweaked to include wav output support.
